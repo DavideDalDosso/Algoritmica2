@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.AssemblyInfo.cs
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\bin\Debug\net7.0\Algoritmica2.exe
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\bin\Debug\net7.0\Algoritmica2.deps.json
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\bin\Debug\net7.0\Algoritmica2.runtimeconfig.json
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\bin\Debug\net7.0\Algoritmica2.dll
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\bin\Debug\net7.0\Algoritmica2.pdb
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.dll
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\refint\Algoritmica2.dll
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.pdb
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\Algoritmica2.genruntimeconfig.cache
+C:\Users\david\source\repos\Algoritmica2\Algoritmica2\Algoritmica2\obj\Debug\net7.0\ref\Algoritmica2.dll
