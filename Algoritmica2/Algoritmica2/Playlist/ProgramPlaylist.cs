@@ -43,6 +43,8 @@ class ProgramPlaylist
         playlist.AddTrack(track7);
         playlist.AddTrack(track8);
 
+        var date = System.DateTime.Now.Ticks;
+
         playlist.Shuffle();
 
         foreach(var track in playlist.GetTracks())
